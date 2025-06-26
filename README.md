@@ -1,4 +1,4 @@
-# 🚌 Bus Reservation System in C
+# 🚌 Bus Reservation System in C++
 
 A simple terminal-based Bus Reservation System implemented in C. This project allows users to:
 
